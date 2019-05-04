@@ -1,0 +1,177 @@
+title: Start
+tags: 
+colorID: 0
+position: 865,6
+---
+[[Pff, Tell me about it. I have a girl too, the same age.|Parent]]
+===
+title: Parent
+tags: 
+colorID: 0
+position: 872,252
+---
+What's her name?
+[[Tess|Parent2]]<<set $Name = "Bess">>
+[[Marina|Parent2]]<<set $Name = "Meryl">>
+[[Elenor|Parent2]]
+===
+title: End
+tags: 
+colorID: 0
+position: 881,736
+---
+
+I thought this place was table service, am I wrong? I'll just go to the bar, you want another?
+[[Uh, sure.|GetDrink]]<<Set $WantsDrink == true>>
+[[I'm good for now|GetDrink]]<<Set $WantsDrink == false>>
+===
+title: Parent2
+tags: 
+colorID: 0
+position: 875,511
+---
+Mine's Elin. Really it's Elinka 
+but she hasn't let me call her that since fourth grade. 
+I'm not sure if someone said something to her or what, 
+but one day she came home from school and she just was Elin.
+[[Did that bother you?|Bother]]
+[[That's a nice name too.|Nice]]
+===
+title: Bother
+tags: 
+colorID: 0
+position: 455,802
+---
+<<move Events fuelTank>>
+No, it didn't. Her mother called her Elinka right to the end, it would drive her to fits, slamming doors - real teenage soap stuff.
+[[I mean at that age they're basically impossible. Especially this generation.|End]]
+[[To the end?|End]]
+===
+title: ThisGen
+tags: 
+colorID: 0
+position: 464,1178
+---
+Empty Text
+===
+title: Nice
+tags: 
+colorID: 0
+position: 1225,397
+---
+It was my grandmother's name, but my wife's idea. 
+[[Huh. She's looking out for your family lineage or something?|Nice2]]
+[[Your wife and family get along then? Wish I could say the same.|End]]
+===
+title: Nice2
+tags: 
+colorID: 0
+position: 1239,653
+---
+Yeah, something like that.
+[[You should ask her about it.|End]]<<move Events fuelTank>>
+===
+title: GetDrink
+tags: 
+colorID: 0
+position: 876,964
+---
+[[**Nice enough guy. Got a little weird about his wife.**|Back]]<<move Events fuelTank>>
+[[**Maybe this is a good time to just up and leave.**|Back]]<<move Events fuelTank>>
+===
+title: Back
+tags: 
+colorID: 2
+position: 876,1193
+---
+<<move Events fuelTank>>
+<<if $WantsDrink is true>> Were you drinking Bud? <<endif>>
+<<if $WantsDrink is true>> [[This Bud's for me|Challenger]]<<endif>>
+<<if $WantsDrink is false>> Couldn't remember if you said you wanted something, I got you a Pilsner<<endif>>
+<<if $WantsDrink is false>> [[Ok.. Thanks|Challenger]]<<endif>>
+<<if $WantsDrink is false>> [[I think I've gotta be heading towards home|Challenger]]<<endif>>
+===
+title: Challenger
+tags: 
+colorID: 0
+position: 883,1421
+---
+We were talking about...
+->Our kids
+->Your wife
+Your kid's same age as mine, yeah?
+So about 8 when the Challenger happened. 
+Did she see it?
+->The Challenger?
+Yeah.
+->Yeah, she saw it at school. 
+->She saw it on the news.
+Elin saw it at school.
+She said they brought all the kids, all the different grades into the auditorium.
+They had done a whole week leading up to it
+had them writing letters to Judith Resnick, building a styrophome moon and planets.
+->She was one of th-
+->We used to make those f-
+She said they wheeled out a huge television.
+And they had them all count down together.
+...
+...man I'm sorry, I've just been going on and on. 
+-> Hey, no, it's totally alright
+-> Maybe about time to call it a night
+Look, all I wanted to get at - to ask you...
+Father to father
+Do you notice any difference in her since that happened
+->Difference in who?
+->Since what happened?
+Your daughter - did you notice any difference in her after she saw the Challenger?
+->Yes
+->No
+I felt like she was different after that
+she came home and she described it to me super vividly
+how the shuttle came apart
+she knew the names of all the different parts of the spaceship
+...
+->...
+->...
+That night we visited her mom, and she described it again.
+It was way past visiting hours but Murray - he's a night supervisor, really good guy -
+he let us stay if we weren't too loud
+she whispers how it happened to her Mom - she hadn't seen it, no one had even told her
+Elinka's whisper voice blending into the sound of the machines.
+->I'm so sorry
+No, I'm not trying to - 
+With everything that came after, Elinka was a lot more together that I was. 
+She's 8, and she's talking me down
+Telling me it'll be alright
+->Kids handle things different
+->That must have been strange
+You said it.
+I wonder about what changes you can attribute to one thing or the other, you know?
+->In what sense?
+->What changes do you mean?
+Can you think of anything in your own life that if it had happened differently,
+maybe not happened at all, or whater,
+That you would be a different person because of it?
+->Yeah, I can.
+->Ask me two beers ago.
+I just wonder how many kids saw that, in their high school gym, or in the window of a furniture store
+and what it said to them.
+What do they bring back to their lives from seeing that?
+->It's just the two of you now?
+Just the two of us now. 
+I'm away a lot, and she's 15 now. Whatever changes she makes now, happen to her, I don't have much say.
+->I know that feeling.
+->I'm lucky if mine talks to me.
+
+
+
+
+
+===
+title: Node12
+tags: 
+colorID: 0
+position: 1452,162
+---
+Empty Text
+===

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Camera
+  - Border
+  - Transition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Perspective
+  - 1
+  - 2
+  - Characters
+  - Title
+  - Roof
+  - Nearest
+  - PP
+  - Lightmask1
+  - Lightmask2
+  - Lightmask3
+  - Lightmask4
+  - Lightmask5
+  - 
+  - 
+  - 
+  - 
+  - 
+  - bodyignore
+  - door
+  - Ladder
+  - Climb
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

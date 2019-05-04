@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2caa25c6af737416190b4e127ecf6bb2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TYPO COMICS Bold DEMO
+  fontNames:
+  - TYPO COMICS Bold DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

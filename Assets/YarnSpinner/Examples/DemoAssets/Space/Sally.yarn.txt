@@ -1,0 +1,35 @@
+title: Intro
+tags: 
+colorID: 0
+position: 512,430
+---
+Most days I wait til i hear his car pull out of the driveway before I get up. It's not that I don't want to see him - I get along pretty well with my dad. 
+===
+title: Opening
+tags: 
+colorID: 0
+position: 835,164
+---
+...
+Is it alright that I'm telling you all this?
+I hope I'm not boring you.
+This week has been kinda crazy, it's a long story. 
+===
+title: Commute
+tags: 
+colorID: 0
+position: 93,184
+---
+He works downtown near the forum and commutes like, almost two hours each way - it's nuts. 
+It means I basically have the place to myself. 
+Or, I used to anyways. He left on this trip the other day to Seattle and he left this note in the kitchen for me. 
+I was like, whatever, it probably says to like pick up eggs or not smoke in the house or some innocuous shit like that. 
+But it wasn't that at all. 
+It was some life altering shit.
+.....
+
+- END OF THE DEMO -
+I know it's extremely short, but I hope it demonstrates the idea.
+What I'd really like to do is allow the player to choose between keywords in each phrase. Depending on which words they choose, it would take the story and animations in different directions.
+Thanks for watching.
+===

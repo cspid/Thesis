@@ -1,0 +1,18 @@
+title: Thesis_Start
+tags: 
+colorID: 0
+position: 551,70
+---
+Hi! My name's Elin - I'm the main character in Carl's thesis project.
+As you may have noticed, I'm trapped in these little boxes! It's a real bummer. 
+In comics and graphic novels, boxes like this one are known as 'panels'. 
+They can do a lot! For starters they can give me a little more room to maneuver.
+===
+title: Thesis_Scene_1B
+tags: 
+colorID: 0
+position: 538,327
+---
+When we apply the structural and aesthetic forms of graphic novels to video games, some wild stuff begins to happen.
+Let's look at another example. 
+===
