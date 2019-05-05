@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 73b23d12d060a57428cbe7934ea9b2e8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' Ceiling Doors'
+    100002: AC Vents
+    100004: BackWall
+    100006: Ceiling
+    100008: Ceiling covers
+    100010: Door
+    100012: Door Frame
+    100014: Floor and RightWall
+    100016: FluorLights
+    100018: FrontWall
+    100020: LeftWall
+    100022: Light Cones
+    100024: //RootNode
+    100026: Plane
+    100028: Side Cupboard
+    100030: Support
+    100032: TAble
+    400000: ' Ceiling Doors'
+    400002: AC Vents
+    400004: BackWall
+    400006: Ceiling
+    400008: Ceiling covers
+    400010: Door
+    400012: Door Frame
+    400014: Floor and RightWall
+    400016: FluorLights
+    400018: FrontWall
+    400020: LeftWall
+    400022: Light Cones
+    400024: //RootNode
+    400026: Plane
+    400028: Side Cupboard
+    400030: Support
+    400032: TAble
+    2100000: Wheels
+    2100002: PlasticDif
+    2100004: WhiteWood
+    2100006: Metal
+    2100008: Paint metal
+    2100010: Metallic
+    2100012: Rubber Black
+    2100014: Orange
+    2100016: Glass
+    2100018: Door
+    2100020: Gold handle
+    2100022: Red Handle
+    2100024: Wall
+    2100026: Baldoza Negra
+    2100028: Glass Plastic
+    2100030: Electric Box Plastic
+    2100032: Automatics
+    2100034: Switch 1
+    2100036: Plastic
+    2100038: Swotch Fan
+    2100040: Ceiling 2
+    2100042: Ceiling
+    2100044: Celing door
+    2100046: Material
+    2100048: Fluorecent Max
+    2100050: Metal holes
+    2100052: Refelctors
+    2100054: Fluorecent LIght
+    2100056: Baldoza Suelo
+    2300000: ' Ceiling Doors'
+    2300002: AC Vents
+    2300004: BackWall
+    2300006: Ceiling
+    2300008: Ceiling covers
+    2300010: Door
+    2300012: Door Frame
+    2300014: Floor and RightWall
+    2300016: FluorLights
+    2300018: FrontWall
+    2300020: LeftWall
+    2300022: Light Cones
+    2300024: Plane
+    2300026: Side Cupboard
+    2300028: Support
+    2300030: TAble
+    2300032: //RootNode
+    3300000: ' Ceiling Doors'
+    3300002: AC Vents
+    3300004: BackWall
+    3300006: Ceiling
+    3300008: Ceiling covers
+    3300010: Door
+    3300012: Door Frame
+    3300014: Floor and RightWall
+    3300016: FluorLights
+    3300018: FrontWall
+    3300020: LeftWall
+    3300022: Light Cones
+    3300024: Plane
+    3300026: Side Cupboard
+    3300028: Support
+    3300030: TAble
+    3300032: //RootNode
+    4300000: Plane
+    4300002: Side Cupboard
+    4300004: TAble
+    4300006: Support
+    4300008: Door
+    4300010: Door Frame
+    4300012: LeftWall
+    4300014: FrontWall
+    4300016: BackWall
+    4300018: Ceiling
+    4300020: ' Ceiling Doors'
+    4300022: AC Vents
+    4300024: Light Cones
+    4300026: Ceiling covers
+    4300028: FluorLights
+    4300030: Floor and RightWall
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 16
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 9636717, guid: 9d97897b2ac2c7b42a4abfb7663c32a7, type: 3}
+  m_Name: HierarchySettings
+  m_EditorClassIdentifier: 
+  _prefab_key: 8e3f0100c6f70000223f0100f8c60000f24401005a050100207bffff8aa4feff3a7dffff547cffffde7cffffa689ffff1089ffff0e89ffff0689ffff0c89ffff0a89ffff9e89ffff0489ffff0889ffff0089fffffc88ffffd61effffd27dffffd07dffff4c7dffff46d5ffff623c010014d900003a4a0100acda000034a9000094000100483a01009ceb0000b2070100829d0000d454010098980000083e01007e1f010082a7000028e200005ea8feff16290100dcbe0000
+  _prefab_value:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  pluginID: 0
+  last_scenesV2:
+  - guid: 6b9b737d22214e24d82b71bb495d050d
+    pin: 0
+    path: Assets/Scenes/Thesis Demo Black Back.unity
+    additional_guid: []
+    additional_path: []
+  - guid: 295e95802147644e28a40c5b9a17a628
+    pin: 0
+    path: Assets/Scenes/Original Scene.unity
+    additional_guid: []
+    additional_path: []
+  - guid: e5216409ce89bda4398a2a8882d00f7b
+    pin: 0
+    path: Assets/Plugins/EModules/PostPresets 1000+ Collection/Example Scene/Scene.unity
+    additional_guid: []
+    additional_path: []
+  last_scenes: []
+  m_hiddenComponents: []
+  modulesParamsType:
+  - EModules.EModulesInternal.Hierarchy+M_SetActive
+  - EModules.EModulesInternal.Adapter+M_Colors
+  - EModules.EModulesInternal.Hierarchy+M_Warning
+  - EModules.EModulesInternal.Hierarchy+M_Freeze
+  - EModules.EModulesInternal.Hierarchy+M_PrefabApply
+  - EModules.EModulesInternal.Hierarchy+M_Vertices
+  - EModules.EModulesInternal.Hierarchy+M_Audio
+  - EModules.EModulesInternal.Hierarchy+M_Tag
+  - EModules.EModulesInternal.Hierarchy+M_Layers
+  - EModules.EModulesInternal.Hierarchy+M_CustomIcons
+  - EModules.EModulesInternal.Hierarchy+M_Descript
+  - EModules.EModulesInternal.Hierarchy+M_SpritesOrder
+  - EModules.EModulesInternal.Hierarchy+M_PlayModeKeeper
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot1
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot2
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot3
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot4
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot5
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot6
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot7
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot8
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot9
+  modulesParamsClass:
+  - enable: 1
+    sib: -1
+    width: 16
+  - enable: 1
+    sib: -1
+    width: 16
+  - enable: 1
+    sib: -1
+    width: 16
+  - enable: 0
+    sib: 0
+    width: 16
+  - enable: 0
+    sib: 1
+    width: 16
+  - enable: 1
+    sib: 2
+    width: 32
+  - enable: 0
+    sib: 3
+    width: 16
+  - enable: 0
+    sib: 4
+    width: 48
+  - enable: 0
+    sib: 5
+    width: 48
+  - enable: 1
+    sib: 6
+    width: 48
+  - enable: 1
+    sib: 8
+    width: 68
+  - enable: 0
+    sib: 7
+    width: 68
+  - enable: 1
+    sib: -1
+    width: 16
+  - enable: 0
+    sib: 9
+    width: 68
+  - enable: 0
+    sib: 10
+    width: 68
+  - enable: 0
+    sib: 11
+    width: 68
+  - enable: 0
+    sib: 12
+    width: 68
+  - enable: 0
+    sib: 13
+    width: 68
+  - enable: 0
+    sib: 14
+    width: 68
+  - enable: 0
+    sib: 15
+    width: 68
+  - enable: 0
+    sib: 16
+    width: 68
+  - enable: 0
+    sib: 17
+    width: 68
+  lastIconSelect: []
+  _lasHiglightBackGroundColor:
+  - serializedVersion: 2
+    rgba: 4289383645
+  - serializedVersion: 2
+    rgba: 4286958057
+  - serializedVersion: 2
+    rgba: 4279857129
+  - serializedVersion: 2
+    rgba: 4289869981
+  - serializedVersion: 2
+    rgba: 4283272016
+  - serializedVersion: 2
+    rgba: 4291469768
+  - serializedVersion: 2
+    rgba: 4291277510
+  - serializedVersion: 2
+    rgba: 4291011521
+  - serializedVersion: 2
+    rgba: 4292401397
+  - serializedVersion: 2
+    rgba: 4291414510
+  - serializedVersion: 2
+    rgba: 4292993518
+  - serializedVersion: 2
+    rgba: 4280695957
+  - serializedVersion: 2
+    rgba: 4285707212
+  - serializedVersion: 2
+    rgba: 4280847315
+  - serializedVersion: 2
+    rgba: 4283864773
+  - serializedVersion: 2
+    rgba: 4284777874
+  - serializedVersion: 2
+    rgba: 4281225824
+  - serializedVersion: 2
+    rgba: 4278210414
+  - serializedVersion: 2
+    rgba: 4285969612
+  - serializedVersion: 2
+    rgba: 4289118410
+  _lasHiglightTextColor:
+  - serializedVersion: 2
+    rgba: 4284631837
+  - serializedVersion: 2
+    rgba: 4291605119
+  - serializedVersion: 2
+    rgba: 4288058514
+  - serializedVersion: 2
+    rgba: 4281746762
+  - serializedVersion: 2
+    rgba: 4282341216
+  - serializedVersion: 2
+    rgba: 4294245631
+  - serializedVersion: 2
+    rgba: 4290110967
+  - serializedVersion: 2
+    rgba: 4281495430
+  - serializedVersion: 2
+    rgba: 4287618298
+  - serializedVersion: 2
+    rgba: 4286693114
+  - serializedVersion: 2
+    rgba: 4289123558
+  - serializedVersion: 2
+    rgba: 4288650392
+  - serializedVersion: 2
+    rgba: 4288784127
+  - serializedVersion: 2
+    rgba: 4289717443
+  - serializedVersion: 2
+    rgba: 4290230271
+  - serializedVersion: 2
+    rgba: 4289765510
+  - serializedVersion: 2
+    rgba: 4291618175
+  - serializedVersion: 2
+    rgba: 4288666304
+  - serializedVersion: 2
+    rgba: 4293182880
+  - serializedVersion: 2
+    rgba: 4289379315
+  listKey: []
+  listValue: []
+  listValueNew: []
+  WasCustomNewApply: 1
+  _mFavoritWindowParams_keys: 
+  _mFavoritWindowParams_values: []
+  PRESETS_DATA: 
+  PRESETS_SCROLL_CAT: 0
+  PRESETS_SCROLL_PRES: 0
+  PRESETS_SELECT: 0
+  m_PrefabIDMode: 2
+  WAS_NEW_INIT: 1
+  __SaveToScriptableObject: 
+  USE_REGISTRATOR: 0
+  prop_m_DataKeeper_Values: []
+  _colorFilters: []
